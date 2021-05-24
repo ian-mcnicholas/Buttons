@@ -1,0 +1,28 @@
+.button1{
+border-radius: 50px;
+background-color:whitesmoke;
+border-color: #00ffcc;
+border-width: 2px;
+color: #00ffcc;
+width: 125px;
+text-decoration: none;
+
+}
+
+.button2 {
+  border-radius: 50%;
+  color: white;
+  background-color:#00ffcc;
+  border: none;
+  height: 25px;
+  width: 25px;
+}
+
+.button3{
+background-color:#3399ff;
+color: white;
+width: 175px;
+box-shadow: 2.5px 2.5px black;
+}
+
+
